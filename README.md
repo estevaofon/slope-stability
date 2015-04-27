@@ -13,6 +13,8 @@ Python 2 and TKinter(The native graphical interface of python)
 * Click in file and select a spreadsheet to be computed. You can use the examples in sheets-sample folder.
 * Click in Calculate.
 
+#### Unlimited input quantity
+You can fill as many slices amount as you want.
+
 ####Join the project
 The project is Open Source. Feel free to contribute.
-
